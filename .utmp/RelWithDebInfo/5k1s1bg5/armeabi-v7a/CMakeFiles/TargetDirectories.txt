@@ -1,0 +1,5 @@
+D:/Unity Projects/MyARProject/.utmp/RelWithDebInfo/5k1s1bg5/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Unity Projects/MyARProject/.utmp/RelWithDebInfo/5k1s1bg5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/Unity Projects/MyARProject/.utmp/RelWithDebInfo/5k1s1bg5/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+D:/Unity Projects/MyARProject/.utmp/RelWithDebInfo/5k1s1bg5/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Unity Projects/MyARProject/.utmp/RelWithDebInfo/5k1s1bg5/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
